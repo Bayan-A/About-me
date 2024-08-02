@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a calorie and macronutrient calculator using C# and .NET Core!<br>🌱 I’m currently learning about ML and AI
+🔭 I'm currently a Master's student specializing in Computer Forensics and Cybersecurity. Passionate about digital forensics, threat analysis, and security solutions, I use this GitHub to showcase my projects and contributions in the field. 
+<br>🌱 Join me as I explore the intersections of technology, security, and innovation.<br> 
 
 
 ## 🌐 Socials:
