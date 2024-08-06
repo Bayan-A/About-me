@@ -2,9 +2,9 @@
 🔭 I'm currently a Master's student specializing in Computer Forensics and Cybersecurity. Passionate about digital forensics, threat analysis, and security solutions, I use this GitHub to showcase my projects and contributions in the field. 
 <br>🌱 Join me as I explore the intersections of technology, security, and innovation.<br> 
 
-## 😎 Portfolio
+# 😎 Portfolio
 
-# Academic Assignments
+## Academic Assignments
 
 - [Cyber Security](./CyberSecurity/README.md)
 - [Managing IT Security and Risk](./Managing_IT_Security_and_Risk/README.md)
