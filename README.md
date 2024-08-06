@@ -6,11 +6,11 @@
 
 ## Academic Assignments
 
-- [Cyber Security](./Portfolio/CyberSecurity/README.md)
-- [Managing IT Security and Risk](./Managing_IT_Security_and_Risk/README.md)
-- [Systems Administration and Security](./Systems_Administration_and_Security/README.md)
+- [Cyber Security](https://github.com/Bayan-A/Portfolio/tree/main/CyberSecurity)
+- [Managing IT Security and Risk](https://github.com/Bayan-A/Portfolio/tree/main/Managing_IT_Security_and_Risk)
+- [Systems Administration and Security](https://github.com/Bayan-A/Portfolio/tree/main/Systems_Administration_and_Security)
 - [Information and Network Security](./Information_Security/README.md)
-- [Concepts of Cloud Computing](./Concepts_of_Cloud_Computing/README.md)
+- [Concepts of Cloud Computing](https://github.com/Bayan-A/Portfolio/tree/main/Concepts_of_Cloud_Computing)
 
 ## 📚 Cheatsheets
 
