@@ -6,7 +6,7 @@
 
 ## Academic Assignments
 
-- [Cyber Security](Portfolio/CyberSecurity/README.md)
+- [Cyber Security](./Portfolio/CyberSecurity/README.md)
 - [Managing IT Security and Risk](./Managing_IT_Security_and_Risk/README.md)
 - [Systems Administration and Security](./Systems_Administration_and_Security/README.md)
 - [Information and Network Security](./Information_Security/README.md)
